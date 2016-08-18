@@ -2,7 +2,7 @@
 
 # command: python coverage.py path/to/bam/file.bam
 # input: path to bamfile (bai file should be in same folder)
-
+#comment to test out git
 import pysam
 import re
 import os
